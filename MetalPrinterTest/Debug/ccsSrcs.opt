@@ -1,0 +1,1 @@
+"../AutoHelm.c" "../AutoTunePID.c" "../BlueUART.c" "../BlueUI.c" "../Globals.c" "../HBridgeComms.c" "../Klist.c" "../MagAcc.c" "../MagAccComms.c" "../MotorDrive.c" "../PIDController.c" "../PrinterTest.c" "../Tester.c" "../UserInterface.c" "../VariableMotor.c" "../main.c" "../startup_ccs.c" "../uartstdio.c" 

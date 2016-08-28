@@ -1,0 +1,1 @@
+"./startup_ccs.obj" "./blinky.obj" -l"libc.a" "../blinky_ccs.cmd" 

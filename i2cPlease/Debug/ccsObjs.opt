@@ -1,0 +1,1 @@
+"./uartstdio.obj" "./uart.obj" "./main.obj" "./i2c.obj" -l"C:\StellarisWare\usblib\ccs-cm4f\Debug\usblib-cm4f.lib" -l"C:/Users/dell/workspaceStellaris/i2cPlease/../../../../StellarisWare/driverlib/ccs-cm4f/Debug/driverlib-cm4f.lib" -l"libc.a" "../lm4f120h5qr.cmd" 
